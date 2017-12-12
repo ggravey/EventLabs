@@ -11,10 +11,14 @@ This Oracle Cloud project contains the lab materials for the Oracle Cloud Test D
 During this day you will be able to experience the various cloud services from Oracle hands-on.  Below you find the link to all labs already available : 
 
 
+## Low Code Development ##
++ [Develop a MAX Application](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_max_short/tut_mcs_max_short_1a.html) - Develop a Mobile application using the Mobile Application Accelerator (MAX) utility from the Mobile Cloud Service
+
+
 ## Application Development ##
-+ [AppDev Infrastructure lab](AppDev/AppDevInfra.md) - Set up the infrastructure to run your applications : create a Database and Application Servers, either using DBaaS or JCS, or use Docker Container to spin up any conainer from the Docker repository
 + [AppDev Development lab](AppDev/Develop.md) - Building applications with DevOps: using Developer Cloud Service to build a SpringBoot application and deploying to Application Container Cloud Service
-+ [DevStar Lab](https://github.com/oracledevstar/microserviceworkshop/blob/master/instructions/clonecode.md) - Join a rebel squad, develop Microservices together and defeat the DevStar backend application
+
++ [AppDev Infrastructure lab](AppDev/AppDevInfra.md) - Set up the infrastructure to run your applications : create a Database and Application Servers, either using DBaaS or JCS, or use Docker Container to spin up any conainer from the Docker repository
 
 
 ## Container Native labs ##
@@ -24,32 +28,11 @@ During this day you will be able to experience the various cloud services from O
 
 **More advanced exercises:**
 + [CI/CD with Wercker : Build a Node.js-MongoDB container packaged application using Wercker pipelines](AppDev/container/wercker.md)
-+ [Run your first serverless Function using FnProject](AppDev/functions/readme.md)
-
-
-## Low Code Development ##
-+ [Develop a MAX Application](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_max_short/tut_mcs_max_short_1a.html) - Develop a Mobile application using the Mobile Application Accelerator (MAX) utility from the Mobile Cloud Service
-+ [Use Visual Builder to develop a simple web application to extend SaaS](AppDev/vbcs/readme.md)
-
-
-
-
-
-## Process Cloud Service ##
-In this lab, you will create a business process using PCS. This Order Approvals process will be initiated when a user enters an order.
-[Follow this link for the details](Process/readme.md)
 
 
 ## Integration ##
-
 + [Integration Cloud Service](Integration/readme.md) - 
 This lab will show you how to set up integration between 2 systems simply using the drag & drop features of Integration Cloud Service.  In this exercise we will set up an integration between a RightNow instance and a generic REST service of a mobile Application.
-
-+ [API Platform Cloud Service](Integration/APIPCS-Manager.md) - 
-The objective of this lab is to give you a comprehensive overview of the Oracle API Platform Cloud Service as an API Manager. 
-
-## Infrastructure-as-a-Service ##
-This chapter regroups a subset of the exercises already detailed in the previous topics to create a specific focus on IaaS services only.  This covers Compute CS and Container CS.  [Follow this link for the details](IaaS/readme.md)
 
 
 ## Prerequisites ##
