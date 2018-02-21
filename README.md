@@ -11,7 +11,7 @@ This Oracle Cloud project contains the lab materials for the Oracle Cloud Test D
 During this day you will be able to experience the various cloud services from Oracle hands-on.  Below you find the link to all labs already available : 
 
 ## Morning program : DevStar HackLab ##
-+ [DevStar Lab](https://github.com/oracledevstar/devstarworkshop/blob/master/README.md) - Join a rebel squad, develop Microservices together and defeat the DevStar backend application
++ [DevStar Lab](https://github.com/OracleLinus/devstarworkshop/blob/master/README.md) - Join a rebel squad, develop Microservices together and defeat the DevStar backend application
 
 
 ## Application Development ##
