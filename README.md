@@ -11,7 +11,7 @@ This Oracle Cloud project contains the lab materials for the Oracle Cloud Test D
 During this day you will be able to experience the various cloud services from Oracle hands-on.  Below you find the link to all labs already available : 
 
 
-## Database ##
+## Application Development Infrastructure: Database ##
 + [AppDev Infrastructure lab](AppDev/AppDevInfra.md) - Set up the infrastructure to run your applications : create a Database using DBaas
 
 ## Modern Application Development in the Cloud ##
