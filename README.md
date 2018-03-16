@@ -19,7 +19,7 @@ During this day you will be able to experience the various cloud services from O
 
 ## Container Native labs with Wercker ##
 + [CI/CD with Wercker, Docker Registry and OCCS: Build a Node.js-MongoDB container application](AppDev/container/wercker.md)
-+ [Run your first serverless Function using FnProject](AppDev/functions/readme.md)
++ **(Optional)** [Run your first serverless Function using FnProject](AppDev/functions/readme.md)
 
 ## Low Code Development ##
 + [Develop a MAX Application](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_max_short/tut_mcs_max_short_1a.html) - Develop a Mobile application using the Mobile Application Accelerator (MAX) utility from the Mobile Cloud Service
