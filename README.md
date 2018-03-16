@@ -21,15 +21,14 @@ During this day you will be able to experience the various cloud services from O
 + [CI/CD with Wercker, Docker Registry and OCCS: Build a Node.js-MongoDB container application](AppDev/container/wercker.md)
 + **(Optional)** [Run your first serverless Function using FnProject](AppDev/functions/readme.md)
 
-## Low Code Development ##
+## Mobile Development ##
 + [Develop a MAX Application](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_max_short/tut_mcs_max_short_1a.html) - Develop a Mobile application using the Mobile Application Accelerator (MAX) utility from the Mobile Cloud Service
-+ [Building an intelligent Banking Bot](Mobile/IntelligentBots/readme.md) - Define a simple ChatBot, create two intents and a few utterances.  Finally you'll train and test your bot to see how it works.
 
 
 
  
 
-## Infrastructure-as-a-Service ##
+## (Optional, if you really have too much time) Infrastructure-as-a-Service ##
 This chapter regroups a subset of the exercises already detailed in the previous topics to create a specific focus on IaaS services only.  This covers Compute CS and Container CS.  [Follow this link for the details](IaaS/readme.md)
 
 
