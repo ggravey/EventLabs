@@ -14,10 +14,10 @@ During this day you will be able to experience the various cloud services from O
 ## Application Development ##
 + [AppDev Infrastructure lab](AppDev/AppDevInfra.md) - Set up the infrastructure to run your applications : create a Database using DBaas
 
-## Modern Application Development in the Cloud##
+## Modern Application Development in the Cloud ##
 + [AppDev Development lab](AppDev/Develop.md) - Building applications with DevOps: using Developer Cloud Service to build a SpringBoot application and deploying to Application Container Cloud Service
 
-## Container Native labs with Wercker##
+## Container Native labs with Wercker ##
 + [CI/CD with Wercker, Docker Registry and OCCS: Build a Node.js-MongoDB container application](AppDev/container/wercker.md)
 + [Run your first serverless Function using FnProject](AppDev/functions/readme.md)
 
